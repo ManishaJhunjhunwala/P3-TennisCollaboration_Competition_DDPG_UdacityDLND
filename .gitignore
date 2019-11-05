@@ -1,0 +1,15 @@
+# Ignore these Folders
+
+.ipynb_checkpoints/
+__pycache__/
+Tennis_Data/
+Tennis_Windows_x86_64/
+
+
+#Ignore these files
+
+Tennis_Windows_x86_64.zip
+debug.log
+unity-environment.log
+UnityPlayer.dll
+Report.docx
